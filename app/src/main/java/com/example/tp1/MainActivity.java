@@ -10,7 +10,7 @@ import com.example.tp1.R;
 public class MainActivity extends AppCompatActivity {
     private EditText inputNumber;
     private Spinner fromBaseSpinner, toBaseSpinner;
-    private TextView resultText;
+
     private Button convertButton;
 
 
